@@ -1,1 +1,14 @@
-["https://portal.love-coffee.club/#/","https://board.love-coffee.club/#/","https://love-coffee.club/#/"]
+[
+  {
+    "checkUrl": "https://portal.love-coffee.club/Cj8khTFYzXr4Rfmm",
+    "jumpUrl": "https://portal.love-coffee.club/"
+  },
+  {
+    "checkUrl": "https://board.love-coffee.club/Cj8khTFYzXr4Rfmm",
+    "jumpUrl": "https://board.love-coffee.club/"
+  },
+{
+    "checkUrl": "https://love-coffee.club/Cj8khTFYzXr4Rfmm",
+    "jumpUrl": "https://love-coffee.club/"
+  }
+]
